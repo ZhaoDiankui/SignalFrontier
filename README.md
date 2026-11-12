@@ -5,6 +5,7 @@ A research archive for the **AI × Data × Storage Industry Radar**.
 ## Archive layout
 
 - `daily/YYYY/MM/YYYY-MM-DD.md` — daily Chinese research briefings.
+- `annual/YYYY/YYYY-MM-DD-topic.md` — annual retrospective and thematic industry reports.
 - `weekly/YYYY/YYYY-Www.md` — weekly reviews, when generated.
 - `monthly/YYYY-MM.md` — monthly reviews, when generated.
 - `companies/` — company profiles and tracking notes.
