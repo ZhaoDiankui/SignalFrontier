@@ -6,6 +6,7 @@ Research archive for the **AI × Data × Storage Industry Radar**.
 
 - [2026-11-12 — AI × Data × Storage 产业与技术雷达](https://github.com/ZhaoDiankui/SignalFrontier/blob/main/daily/2026/11/2026-11-12.md)
 
+- [2026-11-13 — AI × Data × Storage 产业与技术雷达](https://github.com/ZhaoDiankui/SignalFrontier/blob/main/daily/2026/11/2026-11-13.md)
 ## Annual and thematic reports
 
 - [2026-11-12 — Database × KV × Storage × AI 基础设施：近一年产业全景追踪](https://github.com/ZhaoDiankui/SignalFrontier/blob/main/annual/2026/2026-11-12-database-kv-storage-ai-last-year.md)
