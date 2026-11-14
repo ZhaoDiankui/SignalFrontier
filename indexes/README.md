@@ -4,6 +4,7 @@ Research archive for the **AI × Data × Storage Industry Radar**.
 
 ## Daily briefings
 
+- [2026-11-14 — AI × Data × Storage 产业与技术雷达](../daily/2026/11/2026-11-14.md) — LangChain Series C、ChatGPT Wallet、Databricks Genie、ClickHouse/Xata，以及 MAPE、SynthCorp、FlinkEval 三项 Agent/Data Agent 研究。
 - [2026-11-13 — AI × Data × Storage 产业与技术雷达](https://github.com/ZhaoDiankui/SignalFrontier/blob/main/daily/2026/11/2026-11-13.md)
 - [2026-11-12 — AI × Data × Storage 产业与技术雷达](https://github.com/ZhaoDiankui/SignalFrontier/blob/main/daily/2026/11/2026-11-12.md)
 
