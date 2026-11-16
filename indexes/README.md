@@ -4,6 +4,8 @@ Research archive for the **AI × Data × Storage Industry Radar**.
 
 ## Daily briefings
 
+- [2026-11-16 — AI × Data × Storage 产业与技术雷达](../daily/2026/11/2026-11-16.md) — PostgreSQL 维护版本与数据正确性风险、WhiteMatter Agent Governance、Google 动态模型 Orchestration、ClickHouse + S3 Tables、KV Cache Session-aware Storage 研究。
+
 - [2026-11-15 — AI × Data × Storage 产业与技术雷达](../daily/2026/11/2026-11-15.md) — ClickHouse Loom 共享代码记忆、Rox Revenue Agent 融资、GHAgentCI 代码 Agent CI 数据集、Intent-Aware Agent 安全研究。
 - [2026-11-14 — AI × Data × Storage 产业与技术雷达](../daily/2026/11/2026-11-14.md) — LangChain Series C、ChatGPT Wallet、Databricks Genie、ClickHouse/Xata，以及 MAPE、SynthCorp、FlinkEval 三项 Agent/Data Agent 研究。
 - [2026-11-13 — AI × Data × Storage 产业与技术雷达](https://github.com/ZhaoDiankui/SignalFrontier/blob/main/daily/2026/11/2026-11-13.md)
