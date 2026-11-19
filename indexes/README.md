@@ -3,6 +3,7 @@
 Research archive for the **AI × Data × Storage Industry Radar**.
 
 ## Daily briefings
+- [2026-11-19 — AI × Data × Storage 产业与技术雷达](../daily/2026/11/2026-11-19.md) — AIStor Memory GA、Pharma Observatory、Virtru Data Harbor、TokenIQ，以及 Agent Memory 正确性研究（Experience Rot、StaleBench、LinEra）。
 - [2026-11-18 — AI × Data × Storage 产业与技术雷达（revision 7；取代 revision 6）](../daily/2026/11/2026-11-18-revision-7.md) — Gemini Tasks、Daydream 垂直购物 Agent、SageMaker KV-aware routing、GaugeRoPE 与 Agent Memory/Tool Reliability 研究、SC26 的 Maze/RACER 论文议题；历史版本：[revision 6](../daily/2026/11/2026-11-18-revision-6.md)、[revision 5](../daily/2026/11/2026-11-18-revision-5.md)、[revision 4](../daily/2026/11/2026-11-18-revision-4.md)、[revision 3](../daily/2026/11/2026-11-18-revision-3.md)、[revision 2](../daily/2026/11/2026-11-18-revision-2.md)、[初版](../daily/2026/11/2026-11-18.md)。
 - [2026-11-17 — AI × Data × Storage 产业与技术雷达（revision 3；取代早期版本）](../daily/2026/11/2026-11-17-revision-3.md) — Qwen4-Max 百万上下文 API、Genpact Onyx 企业 Agent、Poki 0.4.3 审批默认值与安全回执修正、Graphon 持久记忆存储、MEM-SQL/VelServe 学术研究；修订历史：[revision 2](../daily/2026/11/2026-11-17-revision-2.md)、[初版](../daily/2026/11/2026-11-17.md)。
 
