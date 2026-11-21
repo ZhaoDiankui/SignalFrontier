@@ -1,5 +1,6 @@
 # SignalFrontier Archive Index
 
+- [2026-11-21 — AI × Data × Storage 产业与技术雷达（revision 2；更新版，保留初版）](../daily/2026/11/2026-11-21-revision-2.md) — LangSmith Tool Gateway/Agent Runtime、Remanence 训练闭环、ROGUE-AI/GrepMem、DuckDB 2.0.1 与 Snowflake Postgres Token Roles；补充 Agent 专项与 SAIS/WSDM 会议节点。
 - [2026-11-21 — AI × Data × Storage 产业与技术雷达](../daily/2026/11/2026-11-21.md) — Unsiloed AI 文档数据层、Pedestal 供应链 Agent、LianLian Agentic Commerce、PostgreSQL 19/DuckDB 2.0.1、Errpedia/MoL-SQL；Agent 治理与近期会议截止日。
 
 Research archive for the **AI × Data × Storage Industry Radar**.
