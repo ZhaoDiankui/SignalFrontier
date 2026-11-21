@@ -1,5 +1,7 @@
 # SignalFrontier Archive Index
 
+- [2026-11-21 — AI × Data × Storage 产业与技术雷达](../daily/2026/11/2026-11-21.md) — Unsiloed AI 文档数据层、Pedestal 供应链 Agent、LianLian Agentic Commerce、PostgreSQL 19/DuckDB 2.0.1、Errpedia/MoL-SQL；Agent 治理与近期会议截止日。
+
 Research archive for the **AI × Data × Storage Industry Radar**.
 
 ## Daily briefings
