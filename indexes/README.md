@@ -1,5 +1,7 @@
 # SignalFrontier Archive Index
 
+- [2026-11-22 — AI × Data × Storage 产业与技术雷达（revision 2；最新校订版，保留初版）](../daily/2026/11/2026-11-22-revision-2.md) — AWS ElastiCache 的 LLM distributed KV cache、DynamoDB write-through cache 与 Agent Skill；Linq $90M Agent communication 融资；Stitch AI 银行业务 Agent；Microsoft Agent Framework PyPI 供应链事件；AACL/NeurIPS Agent Memory 与 Runtime Safety 研究。
+- [2026-11-22 — AI × Data × Storage 产业与技术雷达（初版；由 revision 2 补正来源归属）](../daily/2026/11/2026-11-22.md) — 初版归档保留；revision 2 更正 Linq 客户案例来源归属。
 - [2026-11-21 — AI × Data × Storage 产业与技术雷达（revision 8；本次最新校订版，保留 revision 7/6/5/4/3/2 与初版）](../daily/2026/11/2026-11-21-revision-8.md) — LangSmith Tool Gateway 与 Oleria AI Gateway、TripleKV Agent KV Cache、HEAMS/MemoryDojo、Remanence $30M Seed、CIDR 2027 Agent/Data Systems 议题；补充 Youxin AIP 与 Agent Memory Lab 跟踪。
 - [2026-11-21 — AI × Data × Storage 产业与技术雷达（revision 7；最新校订版，保留 revision 6/5/4/3/2 与初版）](../daily/2026/11/2026-11-21-revision-7.md) — 补充 Snowflake AI Governance Preview、Prompt Injection Guardrail Log Mode、COPY INTO/Snowpipe CHECK 约束 GA，并精确标注 LangGraph 1.2.23 与 prebuilt 1.1.3 修复范围。
 - [2026-11-21 — AI × Data × Storage 产业与技术雷达（revision 6；最新校订版，保留 revision 5/4/3/2 与初版）](../daily/2026/11/2026-11-21-revision-6.md) — 修正版本元数据并纳入 LangGraph 1.2.24、LMCache 0.5.8rc2 的近24小时开源更新；覆盖 Agent Runtime/Memory/Security、Remanence、DuckDB/Snowflake、DiskANN 与会议日历。
