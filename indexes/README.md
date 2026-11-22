@@ -1,5 +1,6 @@
 # SignalFrontier Archive Index
 
+- [2026-11-22 — AI × Data × Storage 产业与技术雷达（revision 5；最新校订版，保留 revision 4/3/2 与初版）](../daily/2026/11/2026-11-22-revision-5.md) — AWS ElastiCache LLM/DynamoDB cache；PostgreSQL 19 在线 REPACK、Plan Advice 与 WAIT FOR LSN；Phison AIDP/Wren AI 私有 GenBI 与 aiDAPTIV；Glean MCP Skills/事件触发；Agent 供应链与学术雷达。
 - [2026-11-22 — AI × Data × Storage 产业与技术雷达（revision 3；最新校订版，保留 revision 2 与初版）](../daily/2026/11/2026-11-22-revision-3.md) — AWS ElastiCache LLM/DynamoDB caching 与 Agent Skill；Linq $90M、Stitch AI、Microsoft Agent Framework 供应链事件；AACL/NeurIPS Agent Memory/Safety 研究；补入 PODS/NSDI 官方节点。
 - [2026-11-22 — AI × Data × Storage 产业与技术雷达（revision 2；保留初版）](../daily/2026/11/2026-11-22-revision-2.md) — 更正 Linq 客户案例来源归属。
 - [2026-11-22 — AI × Data × Storage 产业与技术雷达（初版）](../daily/2026/11/2026-11-22.md) — 初版归档保留；revision 2/3 记录后续校订。
