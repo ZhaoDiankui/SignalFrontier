@@ -1,5 +1,7 @@
 # SignalFrontier Archive Index
 
+- [2026-11-24 — AI × Data × Storage 产业与技术雷达](../daily/2026/11/2026-11-24.md) — Claude Ship PR 审查/修复/审批；Databricks、Google Cloud、Snowflake Agent 数据治理与可观测性；LoopForge/OpenCodeReview；DriftGuard、MemOnce 等 Agent Memory 研究；Lark/Sutrix 垂直 AI。
+
 - [2026-11-23 — AI × Data × Storage 产业与技术雷达](../daily/2026/11/2026-11-23.md) — OpenAI Performance Factory 生产级 Agent 工作流、Dots 与 Claude Computer Use 企业 rollout、Dell Agentic Data Gateway、Ai2 Theorizer、SC26 DySpin KV Cache 研究。
 - [2026-11-22 — AI × Data × Storage 产业与技术雷达（revision 6；最新校订版，保留 revision 5/4/3/2 与初版）](../daily/2026/11/2026-11-22-revision-6.md) — PostgreSQL 19（修正 pg_stat_progress_repack 名称）；AWS ElastiCache LLM/DynamoDB cache；Phison AIDP/Wren AI 私有 GenBI；Glean MCP Skills/事件触发；Agent 供应链与学术雷达。
 - [2026-11-22 — AI × Data × Storage 产业与技术雷达（revision 5；最新校订版，保留 revision 4/3/2 与初版）](../daily/2026/11/2026-11-22-revision-5.md) — AWS ElastiCache LLM/DynamoDB cache；PostgreSQL 19 在线 REPACK、Plan Advice 与 WAIT FOR LSN；Phison AIDP/Wren AI 私有 GenBI 与 aiDAPTIV；Glean MCP Skills/事件触发；Agent 供应链与学术雷达。
