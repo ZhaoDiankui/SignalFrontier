@@ -1,5 +1,6 @@
 # SignalFrontier Archive Index
 
+- [2026-11-25 — AI × Data × Storage 产业与技术雷达](../daily/2026/11/2026-11-25.md) — Meta Muse 英国消费级 Agent 上线与 FCA/CMA/ICO 监管；KPMG 100+ Agent 审计试点；VAST Takeoff AI Cloud 软件扶持；Databricks Lakewatch 流式检测与 Genie Migrate；OSDI ’27 投稿节点。
 - [2026-11-24 — AI × Data × Storage 产业与技术雷达](../daily/2026/11/2026-11-24.md) — Claude Ship PR 审查/修复/审批；Databricks、Google Cloud、Snowflake Agent 数据治理与可观测性；LoopForge/OpenCodeReview；DriftGuard、MemOnce 等 Agent Memory 研究；Lark/Sutrix 垂直 AI。
 
 - [2026-11-23 — AI × Data × Storage 产业与技术雷达](../daily/2026/11/2026-11-23.md) — OpenAI Performance Factory 生产级 Agent 工作流、Dots 与 Claude Computer Use 企业 rollout、Dell Agentic Data Gateway、Ai2 Theorizer、SC26 DySpin KV Cache 研究。
