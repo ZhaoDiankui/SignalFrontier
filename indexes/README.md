@@ -1,5 +1,7 @@
 # SignalFrontier Archive Index
 
+- [2026-11-27 — AI × Data × Storage 产业与技术雷达](../daily/2026/11/2026-11-27.md) — Octop Harness/Memory 独立 MCP 记忆服务；vLLM Blackwell QSA Prefill 优化；AWS 跨 Region KV-aware 推理路由；LangGraph checkpoint 消息 ID 修复；DuckDB 优化器谓词传播。
+
 - [2026-11-26 — AI × Data × Storage 产业与技术雷达](../daily/2026/11/2026-11-26.md) — ClickHouse × AWS Agent 数据栈合作；Zipher 5,300 万美元出隐身；Matters AI 1,200 万美元融资；MemT Native Memory 与 NightWatch 主动感知研究；AgenticOS 共享状态/事务议题。
 - [2026-11-25 — AI × Data × Storage 产业与技术雷达](../daily/2026/11/2026-11-25.md) — Meta Muse 英国消费级 Agent 上线与 FCA/CMA/ICO 监管；KPMG 100+ Agent 审计试点；VAST Takeoff AI Cloud 软件扶持；Databricks Lakewatch 流式检测与 Genie Migrate；OSDI ’27 投稿节点。
 - [2026-11-24 — AI × Data × Storage 产业与技术雷达](../daily/2026/11/2026-11-24.md) — Claude Ship PR 审查/修复/审批；Databricks、Google Cloud、Snowflake Agent 数据治理与可观测性；LoopForge/OpenCodeReview；DriftGuard、MemOnce 等 Agent Memory 研究；Lark/Sutrix 垂直 AI。
