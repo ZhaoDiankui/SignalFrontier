@@ -1,6 +1,7 @@
 # SignalFrontier Archive Index
 
-- [2026-11-28 — AI × Data × Storage 产业与技术雷达（revision 4；最新校订版，保留 revision 3/2/初版）](../daily/2026/11/2026-11-28-revision-4.md) — Tencent DFly2 共享 Sparse KV 投机解码；Anthropic MCP/Claude Ship；Linger 本地 Agent（校准硬件默认方案）；百炼 Wiki；HEAMS；Cross-GPU 侧信道与 PolarDB Agentic DB GA 跟踪。
+- [2026-11-28 — AI × Data × Storage 产业与技术雷达（revision 5；最新校订版，保留 revision 4/3/2/初版）](../daily/2026/11/2026-11-28-revision-5.md) — 修复 Agent 专项索引段落；补齐 DFly2/Host Memory 侧信道研究观察、PolarDB PostgreSQL Agentic Database 12 月 1 日 GA 节点与 Linger 硬件规划核验。
+- [2026-11-28 — AI × Data × Storage 产业与技术雷达（revision 4；保留）](../daily/2026/11/2026-11-28-revision-4.md) — 补充 PolarDB GA 公告链接并整理跟踪表格；revision 5 修复 Agent 专项段落和 AI Infra 观察。
 - [2026-11-28 — AI × Data × Storage 产业与技术雷达（revision 3；保留）](../daily/2026/11/2026-11-28-revision-3.md) — 补充 DFly2、修正 Linger 性能边界；revision 4 修复跟踪表格残留。
 - [2026-11-28 — AI × Data × Storage 产业与技术雷达（revision 2；保留）](../daily/2026/11/2026-11-28-revision-2.md) — 补入 DFly2 论文/代码，校准 Linger 硬件默认方案；保留早期研究观察。
 - [2026-11-28 — AI × Data × Storage 产业与技术雷达（初版；保留）](../daily/2026/11/2026-11-28.md) — 初版归档保留；后续 revision 2/3 记录证据补充与校订。
